@@ -1,0 +1,2 @@
+/** @type {import('next').NextConfig} */
+module.exports = { output: 'export', images: { unoptimized: true }, trailingSlash: true, basePath: '/kolo-mee-stinablis-1775102332151', assetPrefix: '/kolo-mee-stinablis-1775102332151' };
